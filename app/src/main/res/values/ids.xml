@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="items_container" type="id" />
+    <item name="item_post" type="id" />
+    <item name="item_event" type="id" />
+</resources>

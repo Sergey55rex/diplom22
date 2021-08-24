@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="nmedia">NMedia</string>
+    <string name="descripion_post_author_avatar" translatable="false">Post autor avatar</string>
+    <string name="descripion_post_menu" translatable="false">Post menu</string>
+    <string name="sample_text" translatable="false">"Привет, это новая Нетология!   → http://netolo.gy/fyb"</string>
+    <string name="description_post_like" />
+
+    <string name="menu_remove">Remove</string>
+    <string name="menu_edit">Edit</string>
+</resources>
